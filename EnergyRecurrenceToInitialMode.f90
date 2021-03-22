@@ -20,7 +20,7 @@ read(*,*) tf,energy,e,mode
 
 
 n=32
-h=0.1
+h=0.05
 
 
 
